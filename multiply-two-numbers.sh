@@ -17,3 +17,4 @@
  read b
  c=$(($a*$b))
  echo "answer is $c"
+ echo " i am printing content by other person name bharathi"
